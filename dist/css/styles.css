@@ -216,6 +216,8 @@ body {
   display: inline-block;
   color: #4a4b5e;
   cursor: pointer;
+  -webkit-transition: all .4s ease;
+  transition: all .4s ease;
 }
 
 @media (min-width: 64em) {
@@ -233,6 +235,8 @@ body {
 
 .accordion__question:hover {
   color: #f47c57;
+  -webkit-transition: all .4s ease;
+  transition: all .4s ease;
 }
 
 .accordion__answer {
