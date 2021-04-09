@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Link](https://fahrulzul.github.io/fm-faq-accordion/)
-- Live Site URL: [Link](https://your-live-site-url.com)
+- Live Site URL: [Link](https://fahrulzul.github.io/fm-faq-accordion/)
 
 ## My process
 
