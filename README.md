@@ -46,7 +46,7 @@ Users should be able to:
 1. **Transition:** Cannot transition `height`, use `min-height` or `max-height` instead.
 2. **Box Shadow:** A negative value on `spread-radius` to make bottom shadow.
 
-The bottom shadow for this solution:
+The bottom shadow of the accordion card for this solution:
 ```css
     box-shadow: 0px 45px 40px -15px rgba(0,0,0,0.25);
 ```
